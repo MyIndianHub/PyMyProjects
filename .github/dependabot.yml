@@ -1,0 +1,22 @@
+version: 2
+updates:
+  - package-ecosystem: ""
+    directory: "/"
+    schedule:
+      interval: "weekly"
+  - package-ecosystem: ""
+    directory: "/"
+    schedule:
+      interval: "daily"
+    allow:
+      - security_updates_only: true
+      - version_ranges:
+          - "<2.0.0"
+      - require_comments: true
+    ignore:
+      - dependency-name: ""
+    security:
+      - vulnerability_threshold: "high"
+      - automerge: true
+      - labels:
+          - "security"
