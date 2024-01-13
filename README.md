@@ -42,11 +42,12 @@ PyMyProjects is a collaborative platform where Python enthusiasts can come toget
    - Explore existing projects in the `projects` directory.
    - Start a new project or contribute to an ongoing one.
 
-## Community
+## Community and Communication
 
-Join our community on [Telegram](https://telegram.me/myindianhub) and start coding together!
+Connect with the MyIndianHub community:
 
-GitHub Discussions : [Discussions](https://github.com/orgs/MyIndianHub/discussions)
+- Join our [Telegram Group](https://t.me/myindianhub) to chat with other contributors and get help.
+- Participate in our [GitHub Discussions](https://github.com/orgs/MyIndianHub/discussions) for broader conversations and community interactions.
 
 ## Contributors
 
