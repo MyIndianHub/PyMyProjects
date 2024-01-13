@@ -46,6 +46,8 @@ PyMyProjects is a collaborative platform where Python enthusiasts can come toget
 
 Join our community on [Telegram](https://telegram.me/myindianhub) and start coding together!
 
+GitHub Discussions : [Discussions](https://github.com/orgs/MyIndianHub/discussions)
+
 ## Contributors
 
 Thanks to the amazing contributors who make PyMyProjects possible.
