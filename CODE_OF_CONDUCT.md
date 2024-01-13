@@ -25,7 +25,7 @@ Project maintainers have the right and responsibility to remove, edit, or reject
 
 ## Reporting Violations
 
-If you witness or experience behavior that violates this Code of Conduct, please report it by contacting the project team at author.fidal@gmail.com. All complaints will be reviewed and investigated promptly and fairly. All reports will be kept confidential.
+If you witness or experience behavior that violates this Code of Conduct, please report it by contacting the project team at official.myindianhub@gmail.com. All complaints will be reviewed and investigated promptly and fairly. All reports will be kept confidential.
 
 ## Attribution
 
