@@ -1,5 +1,7 @@
 # PyMyProjects
 
+![PyMyProtectsLogo](src/code-to-code.jpeg)
+
 Welcome to PyMyProjects, your open-source playground for Python projects!
 
 ## About
