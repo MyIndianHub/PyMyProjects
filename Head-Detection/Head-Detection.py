@@ -28,6 +28,11 @@ face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
 
 while True:
     ret, frame = cap.read()
+
+    if not ret:
+        print("Failed to capture frame. Exiting...")
+        break
+
     frame_with_hand = find_hand(frame)
     frame_with_head = find_head(frame, face_cascade)
 
@@ -39,3 +44,4 @@ while True:
 
 cap.release()
 cv2.destroyAllWindows()
+    
