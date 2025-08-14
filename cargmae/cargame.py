@@ -33,6 +33,15 @@ player2.shapesize(stretch_wid=1, stretch_len=2)
 player2.penup()
 player2.goto(-350, -100)
 
+#player 3 setup
+player3 = turtle.Turtle()
+player3.speed(0)
+player3.shape("square")
+player3.color("yellow")
+player3.shapesize(staretch_wid=1, stretch_len=2)
+player3.penup()
+player3.goto(-350, -100)
+
 # Player 1 movement function
 def move_player1():
     x = player1.xcor()
@@ -45,10 +54,16 @@ def move_player2():
     x += 10
     player2.setx(x)
 
+#player 3 movement function
+def move_player3():
+    x = player3.xcor()
+    x  += 10
+    player3.setx(x)
 # Keyboard bindings
 wn.listen()
 wn.onkey(move_player1, "w")
 wn.onkey(move_player2, "Up")
+
 
 # Main game loop
 while True:
